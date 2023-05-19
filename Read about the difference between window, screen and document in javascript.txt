@@ -1,0 +1,36 @@
+   3.Read about the difference between window, screen and document in javascript
+   
+   WINDOW
+
+   =>It is the browser element where my HTML and JAVASCRIPT code is run.
+   =>It is the first thing that gets loaded into browser.
+   
+     
+     Some of window object methods are:
+   =>window.open
+   =>window.close
+   =>window.move to
+   =>window.resize To()
+
+
+
+  SCREEN
+
+ =>It describes the physical display's dimensions of full screen.
+ =>It is monitor where web content is displayed.
+
+   Some of window SCREEN methods are:
+ =>screen.height
+ =>screen.width
+
+
+  DOCUMENT
+
+ =>It is container for HTML content
+
+  Some of DOCUMENT object methods are:
+   =>window.document.getElementbyID()
+   =>window.document.body.firstchild
+  
+
+ 

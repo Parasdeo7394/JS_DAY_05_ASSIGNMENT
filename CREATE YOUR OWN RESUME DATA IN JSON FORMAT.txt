@@ -1,0 +1,51 @@
+2) CREATE YOUR OWN RESUME DATA IN JSON FORMAT
+// let myResume={
+//     "personal details": {
+//       "name": "Paras Deo",
+//       "email": "paras7394@gamil.com",
+//       "phone": ["8210362090","8873979208"],
+//       "degree": "Btech",
+//       "location": {
+//         "address": "Pohaddi bela Ghanshyampur Darbhanga",
+//         "postalCode": 847427,
+//         "city": "Patna",
+//         "state": "Bihar",
+//         "country": "India"
+//       },
+    
+//     },
+//     "work": [
+//       {
+//         "company": "Nakoda machinary pvt.ltd",
+//         "position": "Design engineer",
+//         "startDate": "2021-10-04",
+//         "endDate": "2023-04-12",
+
+//       },
+//     ],
+//     "education": [
+//       {
+//         "institution": "Mit Muzaffarpur",
+//         "department": "Mechanical engg",
+//         "studyType": "fulltime",
+//         "batch start year": 2014,
+//         "batch end year": 2018,
+//         "gpa": 8.2,
+//       }
+//     ],
+//     "skills": [
+//       {
+//         "name": "Autocad solidworks solidedge ls dyna Hypermesh",
+        
+ 
+//       }
+//     ],
+//     "languages": [
+//       {
+//         "language": "Hindi,Enlish",
+//       }
+//     ],
+   
+//   }
+
+//    console.log(myResume);
